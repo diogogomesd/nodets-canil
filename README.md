@@ -6,3 +6,6 @@ projeto feito no modulo do curso de node + typescript
 
 ### Para rodar o projeto em dev 
 `npm run start-dev`
+
+### para instalar dependencias
+npm install
